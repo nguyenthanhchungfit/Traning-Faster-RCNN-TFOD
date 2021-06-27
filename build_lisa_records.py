@@ -4,7 +4,8 @@ from config import lisa_config as config
 from pyimagesearch.utils.tfannotation import TFAnnotation
 from sklearn.model_selection import train_test_split
 from PIL import Image
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import os
 
 
