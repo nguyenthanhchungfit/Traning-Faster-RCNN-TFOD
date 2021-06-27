@@ -1,11 +1,11 @@
 # import the necessary packages
-2 from scipy.sparse.construct import random
+from scipy.sparse.construct import random
 from config import lisa_config as config
-3 from pyimagesearch.utils.tfannotation import TFAnnotation
-4 from sklearn.model_selection import train_test_split
-5 from PIL import Image
-6 import tensorflow as tf
-7 import os
+from pyimagesearch.utils.tfannotation import TFAnnotation
+from sklearn.model_selection import train_test_split
+from PIL import Image
+import tensorflow as tf
+import os
 
 
 def main(_):
