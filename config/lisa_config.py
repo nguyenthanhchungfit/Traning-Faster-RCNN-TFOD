@@ -2,7 +2,7 @@
 import os
 
 # initialize the base path for the LISA dataset
-BASE_PATH = "datasets"
+BASE_PATH = "../datasets"
 
 # build the path to the annotations file
 ANNOT_PATH = os.path.sep.join([BASE_PATH, "allAnnotations.csv"])
