@@ -1,0 +1,5 @@
+https://github.com/tensorflow/models/tree/master/research
+https://github.com/tensorflow/models/tree/master/research/object_detection
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
+https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb
+https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb#scrollTo=6cPY9Ou4sWs_

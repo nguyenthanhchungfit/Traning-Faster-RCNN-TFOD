@@ -1,0 +1,13 @@
+| --- ssds_and_rcnn| 
+    |--- build_lisa_records.py
+    |--- config
+        |--- __init__.py
+        |--- lisa_config.py
+    |--- lisa/
+        |--- allAnnotations.csv
+        |--- categories.txt...
+        |--- vid8/
+        |--- vid9/
+        |--- videoSources.txt
+    |--- predict.py
+    |--- predict_video.
